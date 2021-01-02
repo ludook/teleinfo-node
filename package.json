@@ -13,7 +13,7 @@
     "url": "https://github.com/lhuet/teleinfo-node.git"
   },
   "dependencies": {
-    "serialport": "4.0.7"
+    "serialport": "9.0.4"
   },
   "author": {
     "name": "Laurent HUET",
